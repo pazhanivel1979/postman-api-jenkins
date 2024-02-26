@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "api-test": "newman run test/Postman_API_Test.postman_collection.json"
+    "api-test": "newman run --disable-unicode test/Postman_API_Test.postman_collection.json"
   },
   "author": "Pazhanivel",
   "dependencies": {
