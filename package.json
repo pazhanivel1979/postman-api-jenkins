@@ -1,0 +1,17 @@
+{
+  "name": "postman-apt-jenkins",
+  "version": "1.0.0",
+  "description": "Project for storing Postman test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pazhanivel",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^6.1.1"
+  }
+}
