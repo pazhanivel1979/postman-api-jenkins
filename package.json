@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "api-test": "newman run test/Postman API Test.postman_collection.json"
   },
   "author": "Pazhanivel",
   "license": "ISC",
