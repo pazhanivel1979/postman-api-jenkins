@@ -10,7 +10,6 @@
     "api-test": "newman run test/Postman API Test.postman_collection.json"
   },
   "author": "Pazhanivel",
-  "license": "ISC",
   "dependencies": {
     "newman": "^6.1.1"
   }
